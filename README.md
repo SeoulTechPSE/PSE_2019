@@ -5,4 +5,4 @@
 3. SMILE and SMART
 4. Super-Computing with Raspberry Pi
 
-** GitHub and Docker Services/GitHub manual/Git 03. Git Hub.ipynb을 숙지하기 바랍니다. **
+**GitHub and Docker Services/GitHub manual/Git 03. Git Hub.ipynb을 숙지하기 바랍니다.**
