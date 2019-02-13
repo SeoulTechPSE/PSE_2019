@@ -6,7 +6,3 @@
 4. Super-Computing with Raspberry Pi
 
 **GitHub and Docker Services/GitHub manual/Git 02. Git Hub 1.ipynb을 숙지하기 바랍니다.**
-
-
-
-수정 테스트
