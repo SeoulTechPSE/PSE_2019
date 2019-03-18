@@ -1,0 +1,8 @@
+COc1cc(CNS(=O)(=O)CCCCC=CC(C)C)ccc1O
+CCN(CC)CC
+CC(C)C(=O)O
+C=CC(CCC)C(C(C)C)CCC
+C1CCCCC1
+CC1=CC(Br)CCC1
+[Na+].[O-]c1ccccc1
+[13CH4]
