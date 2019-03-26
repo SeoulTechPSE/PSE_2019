@@ -1,0 +1,7 @@
+Self consistency deals with a coupled solution of Schrodinger and Poisson equation.
+
+Charge distribution is calculated from the wave functions calculated using Schrodinger equation.
+Next this charge distribution is put into Poisson eqn to predict the potential distribution which is again used in Sch eqn. 
+This process is repeated with iteration and ultimately stopped when the solution converges.
+
+It gives the actual charge as well as potential distribution inside the  structure under consideration.
